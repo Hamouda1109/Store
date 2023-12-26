@@ -73,3 +73,4 @@ D:\Self\Store\Store\obj\Debug\net6.0\refint\Store.dll
 D:\Self\Store\Store\obj\Debug\net6.0\Store.pdb
 D:\Self\Store\Store\obj\Debug\net6.0\Store.genruntimeconfig.cache
 D:\Self\Store\Store\obj\Debug\net6.0\ref\Store.dll
+D:\Self\Store\Store\obj\Debug\net6.0\Store.sourcelink.json
